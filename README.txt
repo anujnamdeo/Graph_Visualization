@@ -1,0 +1,2 @@
+The project in this folder is the extended version of the earlier major project that contained just the Dijkstra visualization. 
+This one contains prims and kruskals also. it is also hosted on firebase with link: https://graph-algorithms-c4f74.web.app/
